@@ -16,3 +16,8 @@ This project is a sales dashboard built using Excel to track key performance ind
 
 ## Team
 - Group of 3 members
+## Dashboard Preview
+
+![Dashboard](dashboard-overview.png)
+
+![Analysis](sales-analysis-chart.png)
